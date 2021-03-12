@@ -680,6 +680,14 @@ p {
     font-size: 12px;
 }
 
+blockquote p {
+    font-size: 16px;
+}
+
+cite {
+    color: black;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
